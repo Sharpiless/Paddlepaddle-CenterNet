@@ -1,0 +1,2 @@
+# Paddlepaddle-CenterNet
+基于Paddlepaddle2.0动态图版本复现CenterNet
